@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="DarkButton">Dark</string>
+    <string name="Light">Light</string>
+    <string name="Dark">Dark</string>
+    <string name="Next">Next</string>
+
+
+
+</resources>

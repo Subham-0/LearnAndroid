@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/DarkLayout"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Interactive"
+    android:orientation="vertical"
+   >
+
+    <Button
+        android:id="@+id/btnDark"
+        android:layout_width="350dp"
+        android:layout_height="65dp"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/black"
+        android:text="@string/DarkButton"
+        android:textColor="@color/white"
+
+        />
+
+
+</LinearLayout>
